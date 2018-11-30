@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Switch Matching Pattern'/>
+        <page name='Optional Throw Extension'/>
+        <page name='Testing With Static API'/>
+        <page name='String literals'/>
+        <page name='Reduce + Sequence'/>
+        <page name='URL + Static String'/>
+        <page name='Specialized Protocols'/>
+        <page name='Fallthrough'/>
+        <page name='Replicator Layer'/>
+        <page name='Others'/>
+        <page name='DSL'/>
+        <page name='Specializing protocols'/>
+        <page name='Specialized events protocol'/>
+        <page name='Power of Key path'/>
+        <page name='Saving service'/>
+        <page name='Dictionary prefix'/>
+        <page name='Factory'/>
+        <page name='Support Multiple arguments'/>
+        <page name='Static dependency injection'/>
+        <page name='Test retain cycles'/>
+        <page name='Iterable enum'/>
+        <page name='OS Logs'/>
+        <page name='Extending Optionals'/>
+        <page name='Composite Object'/>
+        <page name='conditional for loop'/>
+        <page name='Service locator'/>
+    </pages>
+</playground>
