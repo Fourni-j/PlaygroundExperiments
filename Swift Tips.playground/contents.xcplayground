@@ -21,7 +21,6 @@
         <page name='Support Multiple arguments'/>
         <page name='Static dependency injection'/>
         <page name='Test retain cycles'/>
-        <page name='Iterable enum'/>
         <page name='OS Logs'/>
         <page name='Extending Optionals'/>
         <page name='Composite Object'/>

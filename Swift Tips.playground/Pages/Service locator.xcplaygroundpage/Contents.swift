@@ -75,5 +75,9 @@ profilViewModel.networkService
     Avoid using service locator as a Singleton and inside your unit tests.
  */
 
+/*
+ https://stackoverflow.com/questions/34406817/service-locator-pattern-in-swift
+ https://badootech.badoo.com/singleton-service-locator-and-tests-in-ios-d69484e88944
+ */
 
 //: [Next](@next)
